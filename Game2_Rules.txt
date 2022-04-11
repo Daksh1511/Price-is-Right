@@ -1,0 +1,8 @@
+******************** Rules for Guess the Price from the given option ********************
+In this game you will be given 4 option A,B,C and D.
+You have to type 'A','B','C','D' or you can type 'a','b','c','d'.
+Among these 4 option only one option is correct.
+You have to select only one option.
+If you type wrong character you have to input your answer untill you type correct 
+character.
+*****************************************************************************************

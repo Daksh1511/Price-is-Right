@@ -1,0 +1,14 @@
+***************** Welcome to Price is Right *****************
+Rules are There are total 3 level in the game.
+Level 1 : Higher or Lower.
+Level 2 : Guess the Price from the given option.
+Level 3 : Guess the price of object with limited error.
+To pass level each you should have minimum 3000 point in that level.
+If you are unable to score minimum points in a certain level game over.
+Greater the point greater the chance to be on top.
+************************ Best of Luck ************************
+
+Now Game will begin to Know the points system press 1
+To start the game press 2
+
+*************************** Enjoy ****************************

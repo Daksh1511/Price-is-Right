@@ -1,0 +1,10 @@
+*************************** Points System ***************************
+For every right answer you will get 1000 point.
+For every incorrect answer no point will be given.
+But there are some points.
+You will avail bonous point by guessing answer consequently correct.
+For second consequently correct answer you will get 2000 point.
+For third consequently correct answer you will get 3000 point.
+For forth consequently correct answer you will get 4000 point.
+And so on.
+*********************************************************************

@@ -1,0 +1,7 @@
+************************** Rules for Higher/Lower **************************
+In this Game certain price will be displayed with the item.
+You have to guess whether the price which is diaplayed is higher or lower
+as compared to original price.
+You can only type "h" or "H" for higher and "l" or "L" for lower.
+If you will type anything else it will ask you to type the responce again.
+****************************************************************************

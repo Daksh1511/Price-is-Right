@@ -1,0 +1,10 @@
+Daksh=3000
+Daksh1115=8000
+mmp=25000
+Daksh1511=1000
+ranger=31000
+red_ranger=2000
+blue ranger=16000
+aryan=25000
+yellow ranger=2000
+black ranger=14000

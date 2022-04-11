@@ -1,0 +1,5 @@
+***************** Rules for Guess the price of object with limited error *****************
+In this you will have to Guess the exact price of the item.
+There is error of 10% which is acceptable.
+If you didn't enter an integer you have to enter again.
+******************************************************************************************
